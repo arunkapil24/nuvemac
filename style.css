@@ -247,7 +247,7 @@ font-size: 2em;
     }
 
     .hb {
-        margin-top: 100px;
+        margin-top: 100px !important;
         margin-left: 0px;
     }
     .hb h1 {
@@ -276,4 +276,3 @@ font-size: 2em;
     }
 
 }
-
